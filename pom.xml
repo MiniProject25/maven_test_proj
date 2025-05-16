@@ -34,7 +34,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.test.github.App</mainclass>
+              <mainClass>com.test.github.App</mainClass>
             </manifest>
           </archive>
         </configuration>
